@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     building (1.1.2)
-    domain_name (0.5.19)
+    domain_name (0.5.21)
       unf (>= 0.0.5, < 1.0.0)
     eventmachine (1.0.3)
     highline (1.6.21)
