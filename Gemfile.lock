@@ -4,7 +4,7 @@ GEM
     building (1.1.2)
     domain_name (0.5.23)
       unf (>= 0.0.5, < 1.0.0)
-    eventmachine (1.0.4)
+    eventmachine (1.0.6)
     highline (1.6.21)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
