@@ -5,7 +5,7 @@ GEM
     domain_name (0.5.23)
       unf (>= 0.0.5, < 1.0.0)
     eventmachine (1.0.7)
-    highline (1.6.21)
+    highline (1.7.1)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
     mechanize (2.7.3)
